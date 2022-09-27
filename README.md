@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lstaborda" alt="lstaborda" /></a> </p>
 
-- 🔭 I’m currently working in **Ambev Tech**
+- 🔭 I’m currently working at **Ambev Tech**
 
-- 🌱 I’m currently learning **NextJS, React, Testing libraries**
+- 🌱 I’m currently learning **React, NextJS, Testing libraries**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Typescript**
 
 <div align="center">
   <a href="https://github.com/lstaborda">
