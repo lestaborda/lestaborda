@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Ambev Tech**
 
-- 🌱 I’m currently learning **React, NextJS, Testing libraries**
+- 🌱 I’m currently learning **React, NextJS, Testing libraries, Design Patterns**
 
 - 💬 Ask me about **React, Typescript**
 
