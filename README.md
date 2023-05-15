@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **BEES Brasil**
 
-- 🌱 I’m currently learning **React, NextJS, Testing libraries, Design Patterns**
+- 🌱 I’m currently learning **React, NextJS, Testing libraries, Design Patterns, Node.js**
 
 - 💬 Ask me about **React, Typescript**
 
