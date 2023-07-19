@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lstaborda" alt="lstaborda" /></a> </p>
 
-- 🔭 I’m currently working at **BEES Brasil**
+- 🔭 I’m currently working at **IFOOD**
 
 - 🌱 I’m currently learning **React, NextJS, Testing libraries, Design Patterns, Node.js**
 
