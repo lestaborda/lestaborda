@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leticia Taborda</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lstaborda" alt="lstaborda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=![image](https://github.com/lestaborda/lestaborda/assets/19824592/a8c6e93a-0e0b-4377-bc5d-15a51cada3c8)" alt="lestaborda" /></a> </p>
 
 - 🔭 I’m currently working at **iFood**
 
@@ -10,14 +10,14 @@
 - 💬 Ask me about **React, Typescript**
 
 <div align="center">
-  <a href="https://github.com/lstaborda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lstaborda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstaborda&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/lestaborda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lestaborda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestaborda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div align="center">
   
-  ![Snake animation](https://github.com/lstaborda/lstaborda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lestaborda/lestaborda/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
