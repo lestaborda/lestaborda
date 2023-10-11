@@ -3,7 +3,7 @@
 - :smiling_face_with_three_hearts: A passionate frontend software engineer from Brazil
 - :briefcase: I’m currently working at **iFood**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leticia-taborda/)
 
 ### My Skills:
 ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
