@@ -25,5 +25,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestaborda&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lestaborda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lestaborda&theme=onedark)](https://github.com/lestaborda/github-profile-trophy)
